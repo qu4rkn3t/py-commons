@@ -1,6 +1,6 @@
 # py-commons
 
-A collection of shared Python libraries for Red Hat tools and automation
+A collection of shared Python libraries for Red Hat tools and automation.
 
 ## Libraries
 
