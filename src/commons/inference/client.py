@@ -1,4 +1,5 @@
 """Inference client for OpenAI-compatible LLM endpoints."""
+
 import asyncio
 import functools
 import json
